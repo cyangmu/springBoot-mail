@@ -3,6 +3,9 @@ package com.cyj.mail;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author cyj
+ */
 @SpringBootApplication
 public class MailApplication {
 
