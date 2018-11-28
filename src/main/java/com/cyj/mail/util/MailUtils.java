@@ -1,4 +1,4 @@
-package com.cyj.mail;
+package com.cyj.mail.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
